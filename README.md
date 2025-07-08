@@ -23,10 +23,7 @@ The analysis addresses seven key research questions:
 ```
 datasets/
 ├── 06a-Dataset_Political_marketing.xlsx    # Main political marketing dataset
-├── 06b-Dataset_Political_Marketing.gdt     # Stata format dataset
-├── 07a-Dataset_Machines_vs_Humans.xls     # Machine vs Human analysis
-├── 07b-Dataset_Machines_vs_Humans.gdt     # Stata format
-└── 07c-Readme-Dataset_Machines_vs_Humans.txt  # Dataset documentation
+└── 06b-Dataset_Political_Marketing.gdt     # Stata format dataset
 ```
 
 ## 🔧 Technical Requirements
